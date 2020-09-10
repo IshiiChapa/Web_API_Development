@@ -1,20 +1,15 @@
-# MERN-Ecommerce-App
+# Elegant Essence
 
-MERN Stack E-Commerce App made for Sports food supplement & accessories
+Elegant Essence made for Jewelery fashions 
 
 ## Introduction
 
-When considering all the Srilankan people both youngsters and
-middle age people are highly concerned about the body and
-the food they take in the day to day life and going for a gym has
-become a part of their lifestyle. Accordingly having
-supplements have become a major part of their lifestyle.
+Most of women are tend to be bright over crowed through wearing magnificent jewelries in Sri Lanka is the same.
+Elegant Essence is a big solution for the women who are too busy to walk into shop.
+Over the website the shopping has become traffic free and easy. 
 
-Some people are having supplements because they need extra
-nutrients for their day to day meal. By considering all above
-facts we decided to build a website to raise this requirement for
-the people in Sri Lanka. So that they can fulfill the supplements
-needs.
+Elegant Essence brings women’s items close to their fingertips..
+
 
 ## Installation
 
@@ -38,7 +33,7 @@ npm start
 
 | GitHub Profile                     | Name                    |
 | ---------------------------------- | ----------------------- |
-| https://github.com/Helaka          | M.H. Jayakody           |
-| https://github.com/bryan354        | D. B. Charles           |
-| https://github.com/CharithPremalal | S. P. C. L Premalal     |
-| https://github.com/EmptyPM         | W.H.M.P.M.B. Wijerathna |
+| https://github.com/luckysedev      | K A L C Kaluarachchi    |
+| https://github.com/Lakinsha        | K H L Nishadi           |
+| https://github.com/TharinduAsintha | M H T A Bandara         |
+| https://github.com/IshiiChapa      | D.B. Baduge             |

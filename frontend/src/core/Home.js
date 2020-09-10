@@ -30,7 +30,12 @@ const Home = () => {
     });
   };
 
+  useEffect(() => {
+    loadProductsByArrival();
+    loadProductsBySell();
+  }, []);
 
+  return (
     <Layout
       titel='JewelleryLK'
       description='A brand new online jewellery shopping expirience'
@@ -56,11 +61,7 @@ const Home = () => {
         ))} */}
       </div>
     </Layout>
-	
   );
 };
 
 export default Home;
-
-
-

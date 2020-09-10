@@ -94,7 +94,8 @@ const Shop = () => {
     }
     return array;
   };
-  
+
+  return (
     <Layout
       titel='Shop Page'
       description='Search and Find the Juwelary of Your Choices '
@@ -139,4 +140,3 @@ const Shop = () => {
 };
 
 export default Shop;
-
